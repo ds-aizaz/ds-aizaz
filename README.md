@@ -30,15 +30,6 @@
 
 ---
 
-## 📈 GitHub Activity & Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://www.linkedin.com/in/muhammad-aizaz-9bb572254/)
